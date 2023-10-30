@@ -1,5 +1,6 @@
 # Web Application Preview
-![image](https://github.com/Jevonzz/Bank_Web_Application/assets/109259972/61db9c7c-dd56-4746-99df-de60debe76cc)
+![image](https://github.com/Jevonzz/HooBank_Web_Application/assets/109259972/16ae213f-8690-4502-aa26-348af567a249)
+
 
 # React + Vite
 
